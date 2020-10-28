@@ -1,0 +1,14 @@
+Name,Latitude,Longitude,Link
+Atmosphere rooftop,6.4391,3.4557,https://www.instagram.com/atmosphererooftop/?hl=en
+Cactus,6.4390,3.4379,https://www.instagram.com/cactuslagos/?hl=en
+Hardrock Cafe,6.4231,3.4442,https://www.instagram.com/hrclagos/?hl=en
+Kohinoor,6.44596082364,3.4701078102,https://www.instagram.com/kohinoorlagos/?hl=en
+Sugarcane,6.4250,3.4167,https://www.instagram.com/sugarcane.ng/?hl=en
+Brass and copper,6.4460,3.4709,https://www.instagram.com/brassandcopperofficial/?hl=en
+The Flowershop Cafe,6.431108,3.423805,https://www.instagram.com/flowershopcafelagos/?hl=en
+La Verandah Italian cuisine,6.4264,3.4154,https://www.instagram.com/laverandalagos/?hl=en
+Michelle's Cafe,6.4311,3.4270,https://www.instagram.com/michellescafelagos/?hl=en
+La Brioche,6.4277,3.4373,https://www.instagram.com/labrioche_ng/?hl=en
+
+
+
