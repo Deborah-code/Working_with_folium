@@ -9,6 +9,8 @@ The Flowershop Cafe,6.431108,3.423805,https://www.instagram.com/flowershopcafela
 La Verandah Italian cuisine,6.4264,3.4154,https://www.instagram.com/laverandalagos/?hl=en
 Michelle's Cafe,6.4311,3.4270,https://www.instagram.com/michellescafelagos/?hl=en
 La Brioche,6.4277,3.4373,https://www.instagram.com/labrioche_ng/?hl=en
+Orchid Bistro,6.5852,3.3571,https://www.instagram.com/theorchidbistro/?hl=en
+
 
 
 
